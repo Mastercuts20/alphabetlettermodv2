@@ -1,0 +1,16 @@
+[
+{
+  "modid": "alm",
+  "name": "alphabetlettermodv2",
+  "description": "a mod that adds in alphabet letter blocks and items",
+  "version": "1.0",
+  "mcversion": "[1.11]",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["mastercuts20"],
+  "credits": "mastercuts20",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
