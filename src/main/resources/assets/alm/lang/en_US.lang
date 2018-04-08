@@ -1,0 +1,13 @@
+# items
+
+# blocks
+tile.lettera.name=letterA
+tile.lettert.name=lettert
+tile.lettere.name=lettere
+tile.letterm.name=letterm
+tile.lettern.name=lettern
+tile.letterk.name=letterk
+tile.trademark.name=Trademark
+
+# tabs
+itemGroup.letters=Letters
